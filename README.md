@@ -1,4 +1,18 @@
-# Learn TDD in Java
 ![learn-tdd](https://github.com/ilkinabdullayev/learn-tdd-in-java/blob/master/images/tdd_main.png?raw=true "Learn TDD in Java")
 
-My notes for TDD
+
+# Contents
+- Introduction to TDD
+  - What is TDD?
+  - The Test Driven Development cycle
+  - Why TDD?
+- Demonstrating TDD, through walkthroughs and exercises
+- Real world TDD Part 1 : Design enabling test
+  - ​Introduction to real world testing
+  - Introducing SOLID design principles
+  - Open closed principle
+  - Liskov substitution
+  - Interface seggregation
+  - Dependency inversion
+- Real world TDD Part 2 : Test doubles
+  - ​Introducing test doubles
