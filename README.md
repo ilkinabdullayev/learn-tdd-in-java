@@ -16,3 +16,12 @@
   - Dependency inversion
 - Real world TDD Part 2 : Test doubles
   - ​Introducing test doubles
+  - Stubs
+  - Fakes
+  - Mocks
+  - Demonstrating Test Doubles
+  - Mock frameworks
+- Testing legacy code
+  - Dealing with legacy code
+  - Demonstration of testing legacy code
+  - Legacy code summary
