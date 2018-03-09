@@ -25,3 +25,9 @@
   - Dealing with legacy code
   - Demonstration of testing legacy code
   - Legacy code summary
+- Test principles
+  - F.I.R.S.T
+  - Testing anti-patterns: The Singleton
+  - Testing anti-patterns: Create the World
+  - Testing anti-patterns: Completely Mocked
+  - Testing anti-patterns: Exceptional Test
