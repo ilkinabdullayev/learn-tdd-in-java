@@ -31,3 +31,9 @@
   - Testing anti-patterns: Create the World
   - Testing anti-patterns: Completely Mocked
   - Testing anti-patterns: Exceptional Test
+
+# Useful links:
+[Understanding Junits runner architecture](https://www.mscharhag.com/java/understanding-junits-runner-architecture)
+
+# Note
+I write notes about TDD when I have a time.So if you need this contents please be patient
