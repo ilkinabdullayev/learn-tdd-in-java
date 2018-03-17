@@ -31,7 +31,13 @@
   - Testing anti-patterns: Create the World
   - Testing anti-patterns: Completely Mocked
   - Testing anti-patterns: Exceptional Test
-
+  - Testing anti-patterns: Usually Passes
+  - Testing anti-patterns: One Big Test
+  - Testing anti-patterns: The Slow Test
+  - Testing anti-patterns: Second class test
+- Applying TDD
+    - Applying Test Driven Development
+    - TDD Kata
 # Useful links:
 [Understanding Junits runner architecture](https://www.mscharhag.com/java/understanding-junits-runner-architecture)
 
